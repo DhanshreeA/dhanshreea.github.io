@@ -5,17 +5,7 @@
     <link>http://example.com/</link>
     <description>Recent content on Dhanshree A</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jun 2022 01:16:44 +0530</lastBuildDate><atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://example.com/about/</link>
-      <pubDate>Sun, 05 Jun 2022 01:16:24 +0530</pubDate>
-      
-      <guid>http://example.com/about/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hi! I&#39;m Dhanshree.</title>
       <link>http://example.com/home/</link>

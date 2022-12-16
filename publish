@@ -1,10 +1,10 @@
 #!/bin/bash
 
-cp ../dhanshree/public ./
+cp -r ../dhanshree/public/* ./
 
 git add .
 
-NOW=$( date '+%F_%H:%M:S')
+NOW=$( date '+%F_%H:%M')
 
 git commit -m "Updated build $NOW"
 
