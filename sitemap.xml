@@ -2,12 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://dhanshree.xyz/about/</loc>
+    <lastmod>2022-06-05T01:16:24+05:30</lastmod>
   </url><url>
-    <loc>http://example.com/home/</loc>
+    <loc>https://dhanshree.xyz/</loc>
   </url><url>
-    <loc>http://example.com/series/</loc>
+    <loc>https://dhanshree.xyz/home/</loc>
   </url><url>
-    <loc>http://example.com/tags/</loc>
+    <loc>https://dhanshree.xyz/series/</loc>
+  </url><url>
+    <loc>https://dhanshree.xyz/tags/</loc>
   </url>
 </urlset>
