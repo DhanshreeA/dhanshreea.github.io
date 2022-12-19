@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dhanshree.xyz/</loc>
+    <lastmod>2022-12-15T16:30:08+05:30</lastmod>
+  </url><url>
+    <loc>https://dhanshree.xyz/tags/ersilia/</loc>
+    <lastmod>2022-12-15T16:30:08+05:30</lastmod>
+  </url><url>
+    <loc>https://dhanshree.xyz/tags/machine-learning/</loc>
+    <lastmod>2022-12-15T16:30:08+05:30</lastmod>
+  </url><url>
+    <loc>https://dhanshree.xyz/blog/outreachy-intro/</loc>
+    <lastmod>2022-12-15T16:30:08+05:30</lastmod>
+  </url><url>
+    <loc>https://dhanshree.xyz/series/outreachy/</loc>
+    <lastmod>2022-12-15T16:30:08+05:30</lastmod>
+  </url><url>
+    <loc>https://dhanshree.xyz/series/</loc>
+    <lastmod>2022-12-15T16:30:08+05:30</lastmod>
+  </url><url>
+    <loc>https://dhanshree.xyz/tags/</loc>
+    <lastmod>2022-12-15T16:30:08+05:30</lastmod>
+  </url><url>
+    <loc>https://dhanshree.xyz/projects/</loc>
+    <lastmod>2022-06-05T01:16:44+05:30</lastmod>
+  </url><url>
+    <loc>https://dhanshree.xyz/talks/</loc>
+    <lastmod>2022-06-05T01:16:34+05:30</lastmod>
+  </url><url>
     <loc>https://dhanshree.xyz/about/</loc>
     <lastmod>2022-06-05T01:16:24+05:30</lastmod>
   </url><url>
-    <loc>https://dhanshree.xyz/</loc>
+    <loc>https://dhanshree.xyz/blog/</loc>
+    <lastmod>2022-06-05T01:16:14+05:30</lastmod>
   </url><url>
     <loc>https://dhanshree.xyz/home/</loc>
-  </url><url>
-    <loc>https://dhanshree.xyz/series/</loc>
-  </url><url>
-    <loc>https://dhanshree.xyz/tags/</loc>
   </url>
 </urlset>

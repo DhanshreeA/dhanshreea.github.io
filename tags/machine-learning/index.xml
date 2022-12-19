@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine-learning on Dhanshree A</title>
+    <link>https://dhanshree.xyz/tags/machine-learning/</link>
+    <description>Recent content in machine-learning on Dhanshree A</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Dec 2022 16:30:08 +0530</lastBuildDate><atom:link href="https://dhanshree.xyz/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Of Open Source and Philosophy</title>
+      <link>https://dhanshree.xyz/blog/outreachy-intro/</link>
+      <pubDate>Thu, 15 Dec 2022 16:30:08 +0530</pubDate>
+      
+      <guid>https://dhanshree.xyz/blog/outreachy-intro/</guid>
+      <description>I have recently been accepted into Outreachy&amp;rsquo;s Winter22-23 cohort and this blog is first of a series where I will document this adventure. Within this program, I am working with Ersilia which is a “non profit organization supporting drug discovery research for infectious diseases in low-income countries”.
+Outreachy is a competitive program with the single aim of empowering underrepresented people in tech with many opportunities to learn and grow by contributing to open source software.</description>
+    </item>
+    
+  </channel>
+</rss>

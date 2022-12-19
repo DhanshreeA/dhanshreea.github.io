@@ -5,6 +5,16 @@
     <link>https://dhanshree.xyz/series/</link>
     <description>Recent content in Series on Dhanshree A</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://dhanshree.xyz/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Dec 2022 16:30:08 +0530</lastBuildDate><atom:link href="https://dhanshree.xyz/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>outreachy</title>
+      <link>https://dhanshree.xyz/series/outreachy/</link>
+      <pubDate>Thu, 15 Dec 2022 16:30:08 +0530</pubDate>
+      
+      <guid>https://dhanshree.xyz/series/outreachy/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
